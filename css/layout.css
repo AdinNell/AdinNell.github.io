@@ -765,25 +765,24 @@ ul {
  
  
  .fa-linkedin-square{
-   color: black;
+   color: white;
    padding: 30px;
  }
  
  .fa-linkedin-square:hover{
-   background-color: rgb(50, 67, 218);
-   color: white;
+   background-color: white;
+   color: rgb(50, 67, 218);
    border-radius: 90px;
-   padding: 30px;
  }
  
  .socicon-github{
-   color: black;
+   color: white;
    padding: 30px;
  }
  
  .socicon-github:hover{
-   background-color: black;
-   color: white;
+   background-color: white;
+   color: black;
    border-radius: 90px;
  }
  
